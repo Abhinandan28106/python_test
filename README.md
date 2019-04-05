@@ -1,2 +1,4 @@
 # python_test
-It's a repo on stocks time series data analysis
+NSEPY: Time Series Data Analysis
+Dataset Selection:  Use: https://github.com/swapniljariwala/nsepy
+Library used: pandas,numpy,bokeh,matplotlib,statsmodels
